@@ -1,0 +1,12 @@
+.place__title {
+    width: 460px;
+    height: 152px;
+    font-size: 72px;
+    line-height: 76px;
+    font-style: normal;
+    font-weight: 900;
+    margin: 0 524px 508px 0;
+    color: #fff;
+    grid-column: 1;
+    grid-row: 1;
+}

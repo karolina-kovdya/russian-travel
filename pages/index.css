@@ -35,3 +35,21 @@
 @import url(../blocks/photo-grid/photo-grid.css);
 
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
+
+@import url(../blocks/places/places.css);
+
+@import url(../blocks/place/place.css);
+
+@import url(../blocks/place/__title/place__title.css);
+
+@import url(../blocks/place/__image/place__image.css);
+
+@import url(../blocks/website/website.css);
+
+@import url(../blocks/website/__heading/website__heading.css);
+
+@import url(../blocks/website/__link/website__link.css);
+
+@import url(../blocks/place/__text/place__text.css);
+
+@import url(../blocks/place/paragraph/place__paragraph.css);
