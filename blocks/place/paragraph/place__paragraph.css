@@ -5,9 +5,9 @@
     font-size: 18px;
     line-height: 29px;
     color: #fff;
-    margin: 0 0 26px;
+    margin: 0;
 }
 
 .place__paragraph:last-child {
-    margin-bottom: 0
+    margin-top: 26px;
 }
