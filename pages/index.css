@@ -50,6 +50,14 @@
 
 @import url(../blocks/website/__link/website__link.css);
 
+@import url(../blocks/footer/footer.css);
+
+@import url(../blocks/footer/__links/footer__links.css);
+
+@import url(../blocks/footer/__link/footer__link.css);
+
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+
 @import url(../blocks/place/__text/place__text.css);
 
 @import url(../blocks/place/paragraph/place__paragraph.css);
