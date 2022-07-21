@@ -1,6 +1,14 @@
 .logo {
-    width: 176px;
+    width: 172px;
     height: 52px;
-    color: #fffff;
+    color: #fff;
     background-image: url(../../images/header-logo.svg);
+    background-size: cover;
+}
+
+@media screen and (max-width: 425px) {
+    .logo {
+        width: 142px;
+        height: 42px;
+    }
 }

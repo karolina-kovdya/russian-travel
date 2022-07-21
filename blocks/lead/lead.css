@@ -3,7 +3,33 @@
     flex-direction: column;
     align-items: center;
     max-width: 984px;
-    min-height: 1005px;
+    max-height: 1005px;
     margin: 56px auto 0;
     padding: 0;
 }
+
+@media screen and (max-width: 1024px) {
+    .lead {
+        max-width: 90.625%;
+        margin-top: 48px;
+        }    
+}
+
+@media screen and (max-width: 768px) {
+    .lead {
+        max-width: 93.75%;
+    } 
+}
+
+@media screen and (max-width: 425px) {
+    .lead {
+        max-width: 91.764%;
+    } 
+}
+
+@media screen and (max-width: 320px) {
+    .lead {
+        max-width: 100%;
+    } 
+}
+

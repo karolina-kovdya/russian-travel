@@ -1,4 +1,13 @@
 .website {
-    min-width: 456px;
+    grid-column: 2;
+    grid-row: 1;
     align-self: end;
+}
+
+@media screen and (max-width: 425px) {
+    .website {
+        grid-column: 1;
+        grid-row: 2;
+        align-self: start;
+    }
 }

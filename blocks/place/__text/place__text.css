@@ -1,4 +1,13 @@
 .place__text {
+    grid-column: 2;
+    grid-row: 2;
     margin: 0;
     padding: 0;
+}
+
+@media screen and (max-width: 425px){
+    .place__text {
+        grid-column: 1;
+        grid-row: 4;
+    }
 }
