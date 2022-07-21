@@ -12,6 +12,12 @@
     }
 }
 
+@media screen and (max-width: 640px) {
+    .place__image {
+        height: 220px;
+    }
+}
+
 @media screen  and (max-width: 425px) {
     .place__image {
        height: 320px;

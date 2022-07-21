@@ -20,15 +20,8 @@
     }
 }
 
-@media screen and (max-width: 425px) {
-    .cover__background-image {
-        height: 265px;
-    }
-}
-
 @media screen and (max-width: 320px) {
     .cover__background-image {
         height: 200px;
     }
-
 }
