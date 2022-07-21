@@ -2,7 +2,7 @@
     width: 100%;
     color: #2a2c2f;
     opacity: .7;
-    transition: opacity: .5s easy;
+    transition: opacity .5s easy;
 }
 
 .cover__overlay:hover {

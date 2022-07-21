@@ -8,8 +8,6 @@
     font-weight: 900;
     margin: 0;
     color: #fff;
-    grid-column: 1;
-    grid-row: 1;
 }
 
 @media screen  and (max-width: 768px) {
