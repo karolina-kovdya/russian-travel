@@ -19,10 +19,16 @@
     }
 }
 
+@media screen and (max-width: 640px) {
+    .places {
+        max-width: 90.625%;
+        margin-top: 64px;
+    }
+}
+
 @media screen and (max-width: 425px) {
     .places {
-        max-width: 91,764%;
-        margin-top: 64px;
+        max-width: 100%;
         grid-row-gap: 50px;
     }
 }
