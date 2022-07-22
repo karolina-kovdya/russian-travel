@@ -19,4 +19,4 @@
 
 ---
 
-[ссылка на проект](https://github.com/karolina-kovdya/russian-travel)
+[ссылка на проект](https://karolina-kovdya.github.io/russian-travel/)
