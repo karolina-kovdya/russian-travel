@@ -6,11 +6,17 @@
     color: #fff;
     margin: 0 18px 0 0;
     padding: 0;
+    text-decoration: none;
+    opacity: 1;
+    transition: opacity .5s easy;
 } 
 
 .lang-link:last-child {
-    text-decoration: none;
     margin-right: 0;
+}
+
+.lang-link:hover {
+    opacity: 80%;
 }
 
 @media screen and (max-width: 425px) {

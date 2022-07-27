@@ -7,7 +7,15 @@
 
 @media screen and (max-width: 640px){
     .place__text {
+        max-width: 394px;
         grid-column: 1;
         grid-row: 4;
+        justify-self: center;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .place__text {
+        max-width: 288px;
     }
 }
